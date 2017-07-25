@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  terminal: one
+  datetime: 2017-07-25 14:46:50
+  timezone: MyString
+  latitude: MyString
+  longitude: MyString
+  no_react: 1
+  boarding: 1
+  alighted: 1
+  unknown: 1
+
+two:
+  terminal: two
+  datetime: 2017-07-25 14:46:50
+  timezone: MyString
+  latitude: MyString
+  longitude: MyString
+  no_react: 1
+  boarding: 1
+  alighted: 1
+  unknown: 1
